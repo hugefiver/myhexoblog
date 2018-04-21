@@ -73,6 +73,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+plugin:
+- hexo-generator-feed
+- hexo-generator-sitemap
+
 theme: yilia
 
 # Deployment
@@ -99,3 +103,4 @@ jsonContent:
       excerpt: false
       categories: true
       tags: true
+
