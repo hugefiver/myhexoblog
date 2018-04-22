@@ -77,6 +77,14 @@ plugin:
 - hexo-generator-feed
 - hexo-generator-sitemap
 
+feed:
+  type: atom
+  path: atom.xml
+  hub:
+    content: false
+    content_limit: 15
+
+
 theme: yilia
 
 # Deployment
