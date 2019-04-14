@@ -1,5 +1,5 @@
 ---
-title: 申请LE的EC算法泛域名ssl证书
+title: 申请LE的ECC泛域名ssl证书
 date: 2018-07-24 16:07:41
 categories:
 	- 技术
